@@ -1,6 +1,6 @@
 {
   "name": "accessible-emojis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add emojis in an accessible way! Why? Emojis are now part of our daily textual communication, yet they're not universally understood in the same way. Marking them as having the role of an image helps with semantic markup, especially for those who may need screen readers. An aria label is also an important way to convey the meaning of the emoji.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
